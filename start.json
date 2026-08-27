@@ -1,6 +1,6 @@
 
 {
-  "name": "KITAZ PORTALS",
+  "name": "KITAZ PORTALS 2",
     "type": "list",
    "extension": "{ico:msx-white:event} {now:date:dd.mm.yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
   "background": "http://msx.cc.ua/msx/img/bg.png", 
@@ -8,7 +8,7 @@
   "version": "1.0.0",
   "parameter": "content:https://kirillpankrashov.github.io/msx/start.json",
   "action": "[settings:validate_links:0|home]", 
-  "dictionary": "http://msx.cc.ua/msx/lang/ru.json",
+  "dictionary": "https://kirillpankrashov.github.io/msx/lang/ru.json",
     "launcher": {
         "image": "http://msx.cc.ua/msx/img/sparow.png"},
    "template": {
@@ -19,9 +19,15 @@
    "items": [
       {
 		"title":"Lampa",
-         "image": "http://msx.cc.ua/msx/img/lampa.jpg",
+         "image": "https://kirillpankrashov.github.io/msx/img/lampa.jpg",
           "action": "link:http://lampa.stream"
       },
+         {
+		  "title":"KITAZ",
+         "image": "https://kirillpankrashov.github.io/msx/img/lampa.jpg",
+          "action": "link:https://kirillpankrashov.github.io/msx/index.html"
+      },
+      
 	  	  {
 		"title":"Lampa UNCENSORED",
             "image": "http://msx.cc.ua/msx/img/bylampa.png",
