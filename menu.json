@@ -1,8 +1,9 @@
 {
   "type": "pages",
-  "headline": "Мой Портал ывыввв",
+  "headline": "Мой Портал",
   "pages": [
     {
+      "name": "main",
       "items": [
         {
           "type": "control",
