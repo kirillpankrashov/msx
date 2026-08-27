@@ -1,5 +1,5 @@
 {
-  "name": "Мой Портал1",
-  "version": "1.0.1",
+  "name": "Мой Портал",
+  "version": "1.0.0",
   "parameter": "menu:https://kirillpankrashov.github.io/msx/menu.json"
 }
