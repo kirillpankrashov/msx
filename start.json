@@ -1,19 +1,5 @@
 {
   "name": "Мой Портал1",
   "version": "1.0.1",
-  "type": "pages",
-  "headline": "Мой Портал1",
-  "pages": [
-    {
-      "items": [
-        {
-          "type": "control",
-          "layout": "0,0,6,4",
-          "label": "Запустить мой Аналог Lampa",
-          "icon": "tv",
-          "action": "link:https://kirillpankrashov.github.io/msx/"
-        }
-      ]
-    }
-  ]
+  "parameter": "menu:https://kirillpankrashov.github.io/msx/menu.json"
 }
