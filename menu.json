@@ -1,18 +1,14 @@
 {
-  "type": "pages",
-  "headline": "Мой Портал",
-  "pages": [
+  "headline": "Мой Портал ывыв",
+  "template": {
+    "type": "control",
+    "layout": "0,0,12,6"
+  },
+  "items": [
     {
-      "name": "main",
-      "items": [
-        {
-          "type": "control",
-          "layout": "0,0,12,6",
-          "label": "Запустить Web App",
-          "icon": "play-arrow",
-          "action": "link:https://kirillpankrashov.github.io/msx/index.html"
-        }
-      ]
+      "label": "Запустить Web App",
+      "icon": "play-arrow",
+      "action": "link:https://kirillpankrashov.github.io/msx/index.html"
     }
   ]
 }
