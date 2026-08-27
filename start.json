@@ -25,8 +25,14 @@
          {
 		  "title":"KITAZ",
          "image": "https://kirillpankrashov.github.io/msx/img/taz.jpg",
-          "action": "link:https://kirillpankrashov.github.io/msx/index.html"
+          "action": "link:https://kirillpankrashov.github.io/msx/"
       },
+       {
+		  "title":"KITAZ 3",
+         "image": "https://kirillpankrashov.github.io/msx/img/taz.jpg",
+          "action": "link:https://kirillpankrashov.github.io/lmp/"
+      },
+         
       
 	  	  {
 		"title":"Lampa UNCENSORED",
