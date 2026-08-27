@@ -1,6 +1,6 @@
 
 {
-  "name": "Portal",
+  "name": "KITAZ PORTALS",
     "type": "list",
    "extension": "{ico:msx-white:event} {now:date:dd.mm.yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
   "background": "http://msx.cc.ua/msx/img/bg.png", 
