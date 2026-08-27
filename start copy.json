@@ -1,4 +1,8 @@
-
+// {
+//   "name": "Мой Аналог Lampa",
+//   "version": "1.0.0",
+//   "parameter": "content:https://kirillpankrashov.github.io/msx/menu.json"
+// }
 {
   "name": "Portal",
     "type": "list",
