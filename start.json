@@ -1,5 +1,6 @@
+
 {
-  "name": "Мой Портал",
+  "name": "Мой Аналог Lampa",
   "version": "1.0.0",
-  "parameter": "menu:https://kirillpankrashov.github.io/msx/menu.json"
+  "parameter": "link:https://kirillpankrashov.github.io/msx/index.html"
 }
