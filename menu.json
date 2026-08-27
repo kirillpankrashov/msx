@@ -3,6 +3,7 @@
   "headline": "Мой Портал",
   "pages": [
     {
+      "name": "main",
       "items": [
         {
           "type": "control",
