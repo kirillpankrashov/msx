@@ -1,5 +1,5 @@
 {
   "name": "Мой Аналог Lampa",
   "version": "1.0.0",
-  "parameter": "redirect:https://kirillpankrashov.github.io/msx/index.html"
+  "parameter": "menu:https://kirillpankrashov.github.io/msx/menu.json"
 }
