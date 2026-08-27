@@ -1,18 +1,13 @@
 {
   "type": "pages",
   "headline": "Мой Портал",
-  "pages": [
+  "items": [
     {
-      "name": "main",
-      "items": [
-        {
-          "type": "control",
-          "layout": "0,0,6,4",
-          "label": "Запустить мой Аналог Lampa",
-          "icon": "tv",
-          "action": "link:https://kirillpankrashov.github.io/msx/index.html"
-        }
-      ]
+      "type": "control",
+      "layout": "0,0,6,4",
+      "label": "Запустить мой Аналог Lampa",
+      "icon": "tv",
+      "action": "link:https://kirillpankrashov.github.io/msx/index.html"
     }
   ]
 }
