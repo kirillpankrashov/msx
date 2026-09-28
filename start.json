@@ -22,6 +22,11 @@
          "image": "https://kirillpankrashov.github.io/msx/img/lampa.jpg",
           "action": "link:http://lampa.stream"
       },
+	   {
+		  "title":"KITAZss",
+         "image": "https://kirillpankrashov.github.io/msx/img/taz.jpg",
+          "action": "link:https://rezka.ag/films/?filter=last"
+      },
          {
 		  "title":"KITAZ",
          "image": "https://kirillpankrashov.github.io/msx/img/taz.jpg",
